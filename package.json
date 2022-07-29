@@ -1,0 +1,27 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "private":"false",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "cli"
+  ],
+  "author": "Zairov Timur",
+  "license": "ISC",
+  "homepage": "https://ituz.uz",
+  "repository": {
+    "type": "git",
+    "url": "hhtps://ituz.uz"
+  },
+  "bugs": {
+    "url": "https://ituz.uz",
+    "email": "zairovne@gmail.com"
+  }
+}
